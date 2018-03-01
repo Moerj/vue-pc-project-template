@@ -1,6 +1,6 @@
 # vue-pc-project-template
 
-> A Vue.js project
+> vue2 pc 框架模板
 
 ## Build Setup
 
